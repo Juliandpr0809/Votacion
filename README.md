@@ -15,4 +15,4 @@ Simulación de resultados sin almacenamiento en base de datos.
 Instalación y Uso
 
 Clona este repositorio en tu computadora:
-git clone https://github.com/tuusuario/sistema-votacion.git
+git clone https://github.com/Juliandpr0809/Votacion
